@@ -1,6 +1,8 @@
 # School-Bot
 
-![image-removebg-preview](https://user-images.githubusercontent.com/88251894/188636388-a4a0c920-8a54-4583-a1db-9ef3b7422369.png)
+<p align="center">
+  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/88251894/188636388-a4a0c920-8a54-4583-a1db-9ef3b7422369.png)">
+</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
