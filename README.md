@@ -1,5 +1,9 @@
 # School-Bot
 
+![image-removebg-preview](https://user-images.githubusercontent.com/88251894/188636388-a4a0c920-8a54-4583-a1db-9ef3b7422369.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 print ("OLÁ MÁQUINA!")
 Estás pronto para atingir os resultados que tanto mereces? Se sim então estás no sítio certo! Deixa me comecar por me apresentar, o meu nome é School Bot e fui desenvovido para ajudar alunos do ensino secundário, principalmente nos anos de exames na área de ciencias e tecnologias! Para que possas ver tudo aquilo que consigo fazer deixo-te aqui uma lista dos meus features.
 
