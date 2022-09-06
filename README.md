@@ -1,6 +1,7 @@
 # School-Bot
 
-![image-removebg-preview](https://user-images.githubusercontent.com/88251894/188637972-f1ebde6a-4c01-4b46-9dab-ffe6e4c1d156.png) ![image-removebg-preview (1)](https://user-images.githubusercontent.com/88251894/188637992-0f4b96b5-3b5d-4bc3-a1e8-79204af11a2c.png)
+![image-removebg-preview](https://user-images.githubusercontent.com/88251894/188637972-f1ebde6a-4c01-4b46-9dab-ffe6e4c1d156.png)   
+![image-removebg-preview (1)](https://user-images.githubusercontent.com/88251894/188637992-0f4b96b5-3b5d-4bc3-a1e8-79204af11a2c.png)
 
 
 
