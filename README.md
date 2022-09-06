@@ -1,8 +1,9 @@
 # School-Bot
 
-<p align="center">
-  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/88251894/188636388-a4a0c920-8a54-4583-a1db-9ef3b7422369.png)">
-</p>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](![image-removebg-preview](https://user-images.githubusercontent.com/88251894/188637597-67b1ee45-2e35-4eb6-915a-31be9e837144.png)
+)  |  ![](https://...Ocean.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
