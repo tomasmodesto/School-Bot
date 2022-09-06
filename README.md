@@ -1,9 +1,11 @@
 # School-Bot
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](![image-removebg-preview](https://user-images.githubusercontent.com/88251894/188637597-67b1ee45-2e35-4eb6-915a-31be9e837144.png)
-)  |  ![](https://...Ocean.png)
+<p float="left">
+  <img src="![image-removebg-preview](https://user-images.githubusercontent.com/88251894/188637826-71b4b870-f3fc-4a65-9874-4fbf219f70ff.png)
+" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
